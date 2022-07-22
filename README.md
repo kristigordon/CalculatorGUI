@@ -2,6 +2,8 @@
 
 Here I followed a tutorial to make a calculator with a GUI! This was my first time making a GUI and I am pretty excited seeing an outward expression of my code on something other than just a command line.
 
+This code has clickable buttons in the interface and displays the numbers in the top line like a tyupical physical calculator. 
+
 <img width="593" alt="Screen Shot 2022-07-21 at 7 53 05 PM" src="https://user-images.githubusercontent.com/66803124/180333985-0a9bdb99-6467-4515-bcea-1c4f8dab7e84.png">
 
 
